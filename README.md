@@ -1,4 +1,4 @@
-# Hackathon-2
+# HACKATHON 2
 
 #GAME DESCRIPTION
 
